@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Welcome, I'm Chukwubuikem Chukwudi (aka Ecodes), nice to meet you 🙇.
 
