@@ -4,7 +4,6 @@
 
 I am a skilled mobile app developer with over 3 years of experience, and I am proficient in English communication. Additionally, I have a strong background in Python development with over 4 years of experience, and a total of 6 years of programming expertise. I have good problem-solving abilities, thrive in team settings, and possess the self-assurance to assume complete responsibility for projects, ensuring their seamless progression from initiation to final deployment.
 
-> ### I'm a Software engineer with a specialty in Mobile development (Native iOS and Cross-platform).
 >
 > - 📱 I love building mobile applications.
 > - 🏗️ I'm looking to collaborate on mobile application projects
@@ -12,6 +11,7 @@ I am a skilled mobile app developer with over 3 years of experience, and I am pr
 > - ☎️ Reach me via [ LinkedIn](https://www.linkedin.com/in/chukwubuikem-onyedika-chukwudi-401667189/) or [ ✉️ mail](chukwubuikemchukwudi@gmail.com)
 > - 😎 Fuelled by 💦 water and 🎧 music while at work.
 > - 💼 Currently open to remote jobs
+> 
 
 ### Technical Skillset
  - Native iOS using XCode.
