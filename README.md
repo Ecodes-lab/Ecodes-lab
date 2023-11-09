@@ -2,7 +2,7 @@
 
 ## Welcome, I'm Chukwubuikem Chukwudi (aka Ecodes), nice to meet you 🙇.
 
-I am a skilled mobile app developer with over 3 years of experience, and I am proficient in English communication. Additionally, I have a strong background in Python development with over 4 years of experience, and a total of 6 years of programming expertise. I have good problem-solving abilities, thrive in team settings, and possess the self-assurance to assume complete responsibility for projects, ensuring their seamless progression from initiation to final deployment.
+I am a skilled iOS developer with React Native experience. I have a strong passion for creating user-friendly and inventive solutions. I find joy in working alongside diverse teams and acquiring fresh skills and industry best practices.
 
 >
 > - 📱 I love building mobile applications.
