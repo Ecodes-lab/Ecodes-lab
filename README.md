@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Welcome, I'm Chukwubuikem Chukwudi (aka Ecodes), nice to meet you 🙇.
+## Welcome, I'm Chukwubuikem Chukwudi (aka Chuk), nice to meet you 🙇.
 
 I am a skilled iOS developer with React Native experience. I have a strong passion for creating user-friendly and inventive solutions. I find joy in working alongside diverse teams and acquiring fresh skills and industry best practices.
 
