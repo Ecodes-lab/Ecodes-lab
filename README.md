@@ -8,7 +8,7 @@ I am a skilled iOS developer with React Native experience. I have a strong passi
 > - 📱 I love building mobile applications.
 > - 🏗️ I'm looking to collaborate on mobile application projects
 > - 💻 My current stacks are Swift, SwiftUI, CoreData, Realm, React Native, Flutter, Firebase, and more 
-> - ☎️ Reach me via [ LinkedIn](https://www.linkedin.com/in/chukwubuikem-onyedika-chukwudi-401667189/) or [ ✉️ mail](chukwubuikemchukwudi@gmail.com)
+> - ☎️ Reach me via [ LinkedIn](https://www.linkedin.com/in/chukwubuikem-chukwudi-401667189/) or [ ✉️ mail](chuk.developa@gmail.com)
 > - 😎 Fuelled by 💦 water and 🎧 music while at work.
 > - 💼 Currently open to remote jobs
 > 
